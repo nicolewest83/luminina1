@@ -1,0 +1,28 @@
+name: luminina1
+favicon: null
+layout_spectrum: 0.5072509015444666
+typography_spectrum: 0.21471344982273877
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.47187485569156706
+  lightness: 0.4086888018064201
+  saturation: 0.8708099217619747
+  rhythmicContrast: 0.3123825644142926
+purpose: []
